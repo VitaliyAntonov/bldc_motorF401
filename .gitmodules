@@ -1,0 +1,3 @@
+[submodule "ros"]
+	path = ros
+	url = git@infra.c60.team:c60/robotics/stm32f401_ros_submodule.git
